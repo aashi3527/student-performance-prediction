@@ -10,8 +10,7 @@ Linear Regression, Decesion Tree, Random Forest
 
 ## Results
 - Best model: Linear Regression
-- R² Score: ~0.77
-- Validated using 5-fold cross-validation
+- R² Score: ~0.79
 
 ## Dataset
 1,000+ student records with features including study hours, attendance rate, and parental education level.
